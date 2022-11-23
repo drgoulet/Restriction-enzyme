@@ -1,3 +1,9 @@
+# Search for restriction enzyme cut sites within a given amino acid sequence
+# Input: Amino acid query sequence
+# Output: Restriction enzymes and where they cut in the translated DNA sequence
+# Dennis R. Goulet
+# First upload to Github: 17 May 2022
+
 import itertools
 
 aa_seq = "GARC"
